@@ -1,0 +1,51 @@
+
+
+
+.b1
+{
+	width:100%;
+	background:linear-gradient(to top,rgba(0,0,0,0.1)50%,rgba(0,0,0,0.1)50%),url("u2.JPG");
+	
+	background-position:center;
+	background-size:cover;
+	height:100vh;
+}
+.header
+{
+width:100%;
+background-color:rgba(0,0,0,.3);
+
+}
+.header ul 
+{
+text-align:center;
+
+}
+.header ul li
+{
+list-style:none;
+display:inline-block;
+}
+.header ul li a
+{
+display:block;
+text-decoration:none;
+color:#fff;
+letter-spacing:2px;
+font-weight:600px;
+padding:25px;
+transition:all ease 0.5s;
+
+}
+.header ul li a:hover
+{
+background-color:#800085;
+
+}
+
+
+
+
+
+ 
+
